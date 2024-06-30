@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.168
+
+### Patch Changes
+
+- fix: deconflict multiple snippets of the same name ([#12221](https://github.com/sveltejs/svelte/pull/12221))
+
 ## 5.0.0-next.167
 
 ### Patch Changes
